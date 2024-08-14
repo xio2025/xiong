@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://xio2025.github.io/xiong</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://xio2025.github.io/xiong</link></image><lastBuildDate>Wed, 14 Aug 2024 15:04:52 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>WhatsApp合集</title><link>https://xio2025.github.io/xiong/post/WhatsApp-he-ji.html</link><description>&gt; [!TIP]&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://xio2025.github.io/xiong</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://xio2025.github.io/xiong</link></image><lastBuildDate>Wed, 14 Aug 2024 15:08:52 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>电脑如何配置 Line</title><link>https://xio2025.github.io/xiong/post/dian-nao-ru-he-pei-zhi-%20Line.html</link><description>## Windows 电脑配置 Line&#13;
+&#13;
+如下图所示，打开 Line 的 设置 页面，勾选 启用代理服务器，代理服务器选择 SOCKS5 ，服务器填写 [127.0.0.1](http://127.0.0.1/) ，端口填写 10808，点击 应用 就可以啦！&#13;
+&#13;
+![IMG_0367](https://github.com/user-attachments/assets/ffed57c5-f17d-472c-94de-19e45ebbfa68)&#13;
+&#13;
+&#13;
+## Mac 电脑配置 Line&#13;
+&#13;
+如下图所示，打开 Line 的 设置 页面，勾选 启用代理服务器，代理服务器选择 SOCKS5 ，服务器填写 [127.0.0.1](http://127.0.0.1/) ，端口填写 7890，点击 应用 就可以啦！&#13;
+&#13;
+![IMG_0368](https://github.com/user-attachments/assets/b6123798-1091-41db-9f88-4fa0d341b5fe)&#13;
+&#13;
+&#13;
+&#13;
+&lt;!-- ##{'script':'&lt;script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'&gt;&lt;/script&gt;'}## --&gt;。</description><guid isPermaLink="true">https://xio2025.github.io/xiong/post/dian-nao-ru-he-pei-zhi-%20Line.html</guid><pubDate>Wed, 14 Aug 2024 15:08:26 +0000</pubDate></item><item><title>WhatsApp合集</title><link>https://xio2025.github.io/xiong/post/WhatsApp-he-ji.html</link><description>&gt; [!TIP]&#13;
 &gt; 已购客户可找客服帮忙注册转移到个人设备（个别联通号码无法注册）.&#13;
 &#13;
 &#13;
