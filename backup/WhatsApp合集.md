@@ -4,7 +4,8 @@
 
 ## WhatsApp登陸問題
 
-`Gmeek-html<iframe src="//[player.bilibili.com/player.html?isOutside=true&aid=1604800941&bvid=BV1qm421M7Xs](https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5)&cid=1557311907&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="460px"></iframe>`
+`Gmeek-html<iframe src="//https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5&cid=1557311907&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="460px"></iframe>`
+
 
 
 `https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5`
