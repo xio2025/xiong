@@ -1,11 +1,13 @@
 > [!TIP]
-> 已购客户可找客服帮忙注册转移到个人设备（个别联通号码无法注册）.
+> 已購客戶可找客服幫忙註冊轉移到個人設備（個別聯通號碼無法註冊）.
 
 
-## WhatsApp登陆问题
+## WhatsApp登陸問題
 
-https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5
+`Gmeek-html<iframe src="//[player.bilibili.com/player.html?isOutside=true&aid=1604800941&bvid=BV1qm421M7Xs](https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5)&cid=1557311907&p=1&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="460px"></iframe>`
 
+
+`https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5`
 确保没有开启微信防骚扰的公众号
 开启就⬇️方按照操作全部关闭
 确保自己没有关注开启就可以了
