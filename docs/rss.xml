@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北极小熊</title><link>https://xio2025.github.io/xiong</link><description>海克斯科技</description><copyright>北极小熊</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/178090765?v=4</url><title>avatar</title><link>https://xio2025.github.io/xiong</link></image><lastBuildDate>Thu, 15 Aug 2024 02:40:41 +0000</lastBuildDate><managingEditor>北极小熊</managingEditor><ttl>60</ttl><webMaster>北极小熊</webMaster><item><title>为什么配置好无法连接？</title><link>https://xio2025.github.io/xiong/post/wei-shen-me-pei-zhi-hao-wu-fa-lian-jie-%EF%BC%9F.html</link><description>**1、系统时间不正确，其他代理冲突**&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>北极小熊</title><link>https://xio2025.github.io/xiong</link><description>海克斯科技</description><copyright>北极小熊</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/178090765?v=4</url><title>avatar</title><link>https://xio2025.github.io/xiong</link></image><lastBuildDate>Thu, 15 Aug 2024 02:48:45 +0000</lastBuildDate><managingEditor>北极小熊</managingEditor><ttl>60</ttl><webMaster>北极小熊</webMaster><item><title>支持几台设备使用？是否限制流量？</title><link>https://xio2025.github.io/xiong/post/zhi-chi-ji-tai-she-bei-shi-yong-%EF%BC%9F-shi-fou-xian-zhi-liu-liang-%EF%BC%9F.html</link><description>## 支持几台设备使用？&#13;
+注意：支持3台设备，自由组合，只要不超过3台设备！不要超设备！系统检测到会停用！&#13;
+&#13;
+举个例子：&#13;
+&#13;
+3个手机使用&#13;
+3个电脑使用&#13;
+2个手机或者1台电脑&#13;
+1个手机，1个电脑，1个平板&#13;
+&#13;
+## 是否限制流量？&#13;
+不限制流量，每月1号系统会自动重置流量。</description><guid isPermaLink="true">https://xio2025.github.io/xiong/post/zhi-chi-ji-tai-she-bei-shi-yong-%EF%BC%9F-shi-fou-xian-zhi-liu-liang-%EF%BC%9F.html</guid><pubDate>Thu, 15 Aug 2024 02:48:22 +0000</pubDate></item><item><title>为什么配置好无法连接？</title><link>https://xio2025.github.io/xiong/post/wei-shen-me-pei-zhi-hao-wu-fa-lian-jie-%EF%BC%9F.html</link><description>**1、系统时间不正确，其他代理冲突**&#13;
 &#13;
 &#13;
 注意：首先确定电脑系统或者手机系统时间，是否为正确的北京时间，一分钟不可以差，因为软件基于北京时间加密，如果正确，可以忽略这个问题，如果错误，请先同步为正确的北京时间！&#13;
