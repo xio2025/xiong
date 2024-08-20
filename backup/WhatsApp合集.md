@@ -2,7 +2,7 @@
 > 已购客户可找客服帮忙注册转移到个人设备（个别联通号码无法注册）.
 
 
-## WhatsApp登录问题
+# WhatsApp登录问题
 
 https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5
 ⬆️方链接点击为操作视频⬆️
@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5
 `Gmeek-html<img src="https://github.com/user-attachments/assets/ddfc7b75-06cf-47fb-9b93-90857c04b303">`
 `Gmeek-html<img src="https://github.com/user-attachments/assets/00d7808c-17be-4253-a424-c66306c012df">`
 `Gmeek-html<img src="https://github.com/user-attachments/assets/a3786e78-7029-4d46-8320-b13c002a5b01">`
-## WhatsApp新号养号
+# WhatsApp新号养号
 1、whatsapp新号上线，确定好名字、头像之后就不要再更换了，更换名字、头像封号概率非常大。
 
 2、如果whatsapp号码登上去之后，号码上残留有上一任的信息，不要回复，回复也会封号。
@@ -60,7 +60,7 @@ https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5
 5. 1个手机一个I ^P，1个 I ^P下注册不要超过5个whatsApp号，超过5个基本会封号
 
 
-## WhatsApp 账号禁用申诉办法
+# WhatsApp 账号禁用申诉办法
 ↓现在只需要用手机提交即可
 
 HiMy WhatsApp number has been banned.Please turn it on again.Thank you very muchmy number is [+86 188888]
