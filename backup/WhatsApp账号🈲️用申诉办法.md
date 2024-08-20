@@ -1,4 +1,3 @@
-
 ## 1.邮箱申诉办法
 smb@support.whatsapp.com
 （给上方邮箱发送下面的这段文字）
