@@ -1,10 +1,10 @@
 > [!TIP]
 > 已购客户可找客服帮忙注册转移到个人设备（个别联通号码无法注册）.
 
+- - -
+[点击此处播放操作视频](https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5)
 
-
-https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5
-⬆️方链接点击为操作视频⬆️
+—-
 
 确保没有开启微信防骚扰的公众号
 开启就⬇️方按照操作全部关闭
