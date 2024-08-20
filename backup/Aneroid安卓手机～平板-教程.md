@@ -1,1 +1,0 @@
-# [点击～打开 安卓手机-平板-使用教程](https://www.evernote.com/shard/s397/sh/3687bc0e-c4cf-1a04-4927-7a03684bfeba/hDphuqcRwPcshtqNdyJKYESXQJOfqWCir1YjZoEzOy_GYDGw7XGLfipBKA)
