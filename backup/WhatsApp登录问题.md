@@ -4,7 +4,7 @@
 - - -
 [点击此处播放操作视频](https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5)
 
-—-
+- - -
 
 确保没有开启微信防骚扰的公众号
 开启就⬇️方按照操作全部关闭
