@@ -15,9 +15,9 @@ https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5
 移动-中国移动高频防骚扰电话防护-电话防护-骚扰拦截设置
 联通-联通助理-安全管家-联通安全管家
 
-`Gmeek-html<img src="https://github.com/user-attachments/assets/ddfc7b75-06cf-47fb-9b93-90857c04b303">`Copied!
-`Gmeek-html<img src="https://github.com/user-attachments/assets/00d7808c-17be-4253-a424-c66306c012df">`Copied!
-`Gmeek-html<img src="https://github.com/user-attachments/assets/a3786e78-7029-4d46-8320-b13c002a5b01">`Copied!
+`Gmeek-html<img src="https://github.com/user-attachments/assets/ddfc7b75-06cf-47fb-9b93-90857c04b303">`
+`Gmeek-html<img src="https://github.com/user-attachments/assets/00d7808c-17be-4253-a424-c66306c012df">`
+`Gmeek-html<img src="https://github.com/user-attachments/assets/a3786e78-7029-4d46-8320-b13c002a5b01">`
 ## WhatsApp新号养号
 1、whatsapp新号上线，确定好名字、头像之后就不要再更换了，更换名字、头像封号概率非常大。
 
@@ -64,9 +64,9 @@ https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5
 ↓现在只需要用手机提交即可
 
 HiMy WhatsApp number has been banned.Please turn it on again.Thank you very muchmy number is [+86 188888]
-![IMG_0137](https://github.com/user-attachments/assets/d528c959-d7a8-48b4-b4c2-5731833e6439)
-![IMG_0136](https://github.com/user-attachments/assets/ab5b4776-640e-4ed4-8ddf-b88b47639a90)
 
+`Gmeek-html<img src="https://github.com/user-attachments/assets/d528c959-d7a8-48b4-b4c2-5731833e6439">`
+`Gmeek-html<img src="https://github.com/user-attachments/assets/ab5b4776-640e-4ed4-8ddf-b88b47639a90">`
 
 
 
