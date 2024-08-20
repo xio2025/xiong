@@ -19,15 +19,3 @@ https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5
 `Gmeek-html<img src="https://github.com/user-attachments/assets/00d7808c-17be-4253-a424-c66306c012df">`
 `Gmeek-html<img src="https://github.com/user-attachments/assets/a3786e78-7029-4d46-8320-b13c002a5b01">`
 
-# WhatsApp 账号禁用申诉办法
-↓现在只需要用手机提交即可
-
-HiMy WhatsApp number has been banned.Please turn it on again.Thank you very muchmy number is [+86 188888]
-
-`Gmeek-html<img src="https://github.com/user-attachments/assets/d528c959-d7a8-48b4-b4c2-5731833e6439">`
-`Gmeek-html<img src="https://github.com/user-attachments/assets/ab5b4776-640e-4ed4-8ddf-b88b47639a90">`
-
-
-
-<!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script>"}## -->
-<!-- ##{"script":"<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>"}## -->
