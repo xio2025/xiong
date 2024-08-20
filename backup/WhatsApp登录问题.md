@@ -2,7 +2,7 @@
 > 已购客户可找客服帮忙注册转移到个人设备（个别联通号码无法注册）.
 
 - - -
-[点击此处播放操作视频](https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5)
+## [点击此处播放操作视频](https://github.com/user-attachments/assets/a1c3ad57-858c-489c-87ad-77e7d3a2b0d5)
 
 - - -
 
